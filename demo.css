@@ -1,0 +1,44 @@
+.title {
+    text-align: center;
+}
+
+.grid-wrapper {
+    display: grid;
+}
+
+.one,
+.two,
+.three,
+.four,
+.five,
+.six {
+    padding: 5px;
+    margin: 1px auto;
+    width: 500px;
+    text-align: center;
+    color: white;
+}
+
+.one {
+    background-color: aqua;
+}
+
+.two {
+    background-color: rgb(47, 246, 146);
+}
+
+.three {
+    background-color: plum;
+}
+
+.four {
+    background-color: pink;
+}
+
+.five {
+    background-color: hotpink;
+}
+
+.six {
+    background-color: rgb(245, 113, 4);
+}
